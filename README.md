@@ -6,7 +6,7 @@ This is a test
 ## Purpose
 ## Deployment 
 ## Copyright 
-2020 Git training 
+2020 Git training  all right 
 ## How to contribute
 This is a test Sample website with plenty of files for demos
 
