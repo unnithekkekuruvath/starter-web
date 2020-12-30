@@ -10,4 +10,4 @@ This is a test
 ## How to contribute
 This is a test Sample website with plenty of files for demos
 
-This adding to aline
+This adding to aline, more text is added
