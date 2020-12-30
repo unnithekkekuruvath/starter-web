@@ -8,4 +8,4 @@ This is a test
 ## Copyright 
 2020 Git training 
 ## How to contribute
-Sample website with plenty of files for demos
+This is a test Sample website with plenty of files for demos
